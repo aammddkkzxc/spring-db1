@@ -1,4 +1,4 @@
-package hello.jdbc.repository;
+package hello.jdbc.exception.translator;
 
 import hello.jdbc.domain.Member;
 import hello.jdbc.repository.ex.MyDbException;
